@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎访问吴理琪的主页
 
 You can use the [editor on GitHub](https://github.com/wuliqi/wuliqi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
