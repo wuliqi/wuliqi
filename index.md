@@ -1,37 +1,37 @@
 ## 欢迎访问吴理琪的主页
+###个人简介
 
-You can use the [editor on GitHub](https://github.com/wuliqi/wuliqi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+吴理琪  男  1980年12月生  中华人民共和国湖南新邵人
+学历  本科 
+专业  计算机及应用
+毕业院校 北京大学（自考） 理学学士学位
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 职业
+程序员及技术管理
 
-### Markdown
+精通Java程序开发、熟悉iOS、Android、vue等移动开发
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```主要城市
+活动国家及城市
 
-```markdown
-Syntax highlighted code block
+# 中国
+## 北京
+### 长沙
 
-# Header 1
-## Header 2
-### Header 3
+- 中华人民共和国
+- 北京
 
-- Bulleted
-- List
+1. 北京
+2. 长沙
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 支持与联系 
+邮箱:wuliqi@wuliqi.cn
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 网址
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuliqi/wuliqi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+http://www.wuliqi.cn
+http://www.writchie.cn
+http://www.app118.cn
+http://www.bj9420.com
